@@ -2,7 +2,7 @@
   "version": 2,
   "endpoints": {
     "*/*": {
-      "endpoint": "{service}.{region}.amazonaws.com"
+      "endpoint": "objects.dreamhost.com"
     },
     "cn-north-1/*": {
       "endpoint": "{service}.{region}.amazonaws.com.cn",
